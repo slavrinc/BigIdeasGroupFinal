@@ -23,11 +23,16 @@ Link: https://data.wprdc.org/dataset/f7ccd6d1-b38e-4b08-aba1-b78b4e9483ca/resour
 Decription: Shows the relationship of population growth and change throughout Allegheny County from 2000 - 2010.
 
 TLDR;
-Top 5 Neighborhoods according to population growth:
+Top 5 County Neighborhoods according to population growth totals:
 - 1 = Pine Township +6715
 - 2 = Marshall Township +5759
 - 3 = South Fayette +5718
 - 4 = S. West Deer +5430
 - 5 = S. Robinson Township +4986
 
-
+Top 5 City Neighborhoods according to population growth percentages:
+- 1 = Strip District +312(+72%)
+- 2 =	Bluff +1790(+40%)
+- 3 = Central Business District +840(+26%)
+- 4 = Troy Hill +463(+25%)
+- 5 = North Oakland +894(+10%)
