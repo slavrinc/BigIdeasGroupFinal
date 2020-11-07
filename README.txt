@@ -1,6 +1,6 @@
 Team Rocket
 
-Emily Worster - 
+Emily Worster - epw13@pitt.edu
 Steven Yang - 
 Samantha Lavrinc - sml165@pitt.edu
 
