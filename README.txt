@@ -32,7 +32,7 @@ Top 5 County Neighborhoods according to population growth totals:
 
 Top 5 City Neighborhoods according to population growth percentages:
 - 1 = Strip District +312(+72%)
-- 2 =	Bluff +1790(+40%)
+- 2 = Bluff +1790(+40%)
 - 3 = Central Business District +840(+26%)
 - 4 = Troy Hill +463(+25%)
 - 5 = North Oakland +894(+10%)
