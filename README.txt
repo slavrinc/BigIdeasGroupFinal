@@ -1,7 +1,7 @@
 Team Rocket
 
 Emily Worster - epw13@pitt.edu
-Steven Yang - 
+Steven Yang - sty11@pitt.edu
 Samantha Lavrinc - sml165@pitt.edu
 
 
@@ -22,6 +22,13 @@ Organization : University of Pittsburgh
 Link: https://data.wprdc.org/dataset/f7ccd6d1-b38e-4b08-aba1-b78b4e9483ca/resource/bcb6d6a8-8d32-4abb-a377-77d7358d94c2/download/pa_allegheny_42003.csv
 Decription: Shows the relationship of population growth and change throughout Allegheny County from 2000 - 2010.
 
+Crime Datasets: Pittsburgh Incident Blotter
+Organization: City of Pittsburgh
+Link: https://data.wprdc.org/organization/about/city-of-pittsburgh
+Description: Shows the crime rate datas within the last thirty days in Pittsburgh.
+
+Dataset: 
+Dataset: 
 TLDR;
 Top 5 County Neighborhoods according to population growth totals:
 - 1 = Pine Township +6715
@@ -36,3 +43,10 @@ Top 5 City Neighborhoods according to population growth percentages:
 - 3 = Central Business District +840(+26%)
 - 4 = Troy Hill +463(+25%)
 - 5 = North Oakland +894(+10%)
+
+Top 5 City Neighborhoods based off of crime rate datas:
+1. Chateau
+2. South Shore
+3. North Shore
+4. Central Business District
+5. Strip District
