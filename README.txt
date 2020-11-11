@@ -27,8 +27,12 @@ Organization: City of Pittsburgh
 Link: https://data.wprdc.org/organization/about/city-of-pittsburgh
 Description: Shows the crime rate datas within the last thirty days in Pittsburgh.
 
-Dataset: 
-Dataset: 
+Covid Dataset: Allegheny County Covid-19 Counts by Municipality and Pittsburgh Neighborhood
+Organization : Allegheny County
+Link: https://data.wprdc.org/datastore/dump/0f214885-ff3e-44e1-9963-e9e9062a04d1
+Description: Shows the number of people tested, amount of cases, amount of deaths, and dates of each community in allegheny county
+
+
 TLDR;
 Top 5 County Neighborhoods according to population growth totals:
 - 1 = Pine Township +6715
@@ -50,3 +54,10 @@ Top 5 City Neighborhoods based off of crime rate datas:
 3. North Shore
 4. Central Business District
 5. Strip District
+
+Top 5 City Neighborhoods based on amount of cases in the area (all had zero cases) :
+1. Mt. Oliver (Pittsburgh)
+2. St. Clair (Pittsburgh)
+3. Undefined (Pittsburgh)
+4. Trafford
+5. Chateau (Pittsburgh)
