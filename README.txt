@@ -49,11 +49,11 @@ Top 5 City Neighborhoods according to population growth percentages:
 - 5 = North Oakland +894(+10%)
 
 Top 5 City Neighborhoods based off of crime rate datas:
-1. Chateau
-2. South Shore
-3. North Shore
-4. Central Business District
-5. Strip District
+1. New Homestead
+2. Swisshelm Park
+3. Oakwood
+4. Stanton Height
+5. Squirrel Hill North
 
 Top 5 City Neighborhoods based on amount of cases in the area (all had zero cases) :
 1. Mt. Oliver (Pittsburgh)
