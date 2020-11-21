@@ -22,10 +22,14 @@ Organization : University of Pittsburgh
 Link: https://data.wprdc.org/dataset/f7ccd6d1-b38e-4b08-aba1-b78b4e9483ca/resource/bcb6d6a8-8d32-4abb-a377-77d7358d94c2/download/pa_allegheny_42003.csv
 Decription: Shows the relationship of population growth and change throughout Allegheny County from 2000 - 2010.
 
+----
+
 Crime Datasets: Pittsburgh Incident Blotter
 Organization: City of Pittsburgh
 Link: https://data.wprdc.org/organization/about/city-of-pittsburgh
 Description: Shows the crime rate datas within the last thirty days in Pittsburgh.
+
+----
 
 Covid Dataset: Allegheny County Covid-19 Counts by Municipality and Pittsburgh Neighborhood
 Organization : Allegheny County
@@ -61,3 +65,9 @@ Top 5 City Neighborhoods based on amount of cases in the area (all had zero case
 3. Undefined (Pittsburgh)
 4. Trafford
 5. Chateau (Pittsburgh)
+
+Conclusion:
+
+While New Homestead rated low on crime and covid cases, only 6 neighborhoods within Pittsburgh experienced any population increase since the 1980's. We believe that individual metrics are not enough to determine which neighborhood would be considered the best, and may not even point to the neighborhoods we ourselves would want to move to. However, watching the way other people move throughout the city is a good indication of what popular features and amenities are readily accessible. Using the population shift as a base metric, we were able to easily select the neighborhood that also ranked within the top 5 for lowest crime metric and relatively low documented covid cases.
+
+The best neighborhood in Pittsburgh is Squirrel Hill.
